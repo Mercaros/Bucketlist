@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bucketlist</string>
+    <string name="bucketlist_description">BucketList Description</string>
+    <string name="title_bucketlist">Title BucketList</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+</resources>
